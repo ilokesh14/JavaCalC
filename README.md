@@ -1,2 +1,2 @@
 # JavaCalC
-A GUI calculator mad using Java.
+A GUI calculator made using Java.
